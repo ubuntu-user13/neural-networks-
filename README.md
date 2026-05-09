@@ -223,7 +223,7 @@ That’s normal—it’s storing 50,000 training steps worth of data. Just delet
 
 -----
 
-## Next Steps
+## things that are coming up
 
 - Modify the network architecture
 - Add more neuromodulators
