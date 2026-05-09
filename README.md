@@ -184,21 +184,6 @@ brain.load_checkpoint("/tmp/brain_checkpoint.pkl")
 
 -----
 
-## For GitHub
-
-Just upload:
-
-- `artificial_brain.py`
-- `README.md` (this file)
-
-That’s all you need. No dependencies file even necessary since it’s just numpy + scipy.
-
-If you want to be fancy, add a `requirements.txt`:
-
-```
-numpy
-scipy
-```
 
 Then someone can do:
 
