@@ -181,17 +181,6 @@ You can load it later:
 brain = ArtificialBrain(architecture=[4096, 8192, 4096, 2048])
 brain.load_checkpoint("/tmp/brain_checkpoint.pkl")
 ```
-
------
-
-
-Then someone can do:
-
-```bash
-pip install -r requirements.txt
-python artificial_brain.py
-```
-
 -----
 
 ## What’s Actually Happening (Technical)
