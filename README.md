@@ -85,9 +85,6 @@ Neuromodulators: {'dopamine': 1.5, 'serotonin': 0.8, 'acetylcholine': 1.0}
 ## File Structure
 
 **Single file**: `artificial_brain.py`
-
-Everything is in one file because you want it easy to upload to GitHub. No external config files, no data directories needed.
-
 -----
 
 ## How to Customize It
